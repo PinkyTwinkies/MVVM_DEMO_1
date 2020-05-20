@@ -1,0 +1,15 @@
+D:\david\programs\Visual Studio\WPFDEMO\bin\Debug\WPFDEMO.exe.config
+D:\david\programs\Visual Studio\WPFDEMO\bin\Debug\WPFDEMO.exe
+D:\david\programs\Visual Studio\WPFDEMO\bin\Debug\WPFDEMO.pdb
+D:\david\programs\Visual Studio\WPFDEMO\obj\Debug\View\View.g.cs
+D:\david\programs\Visual Studio\WPFDEMO\obj\Debug\App.g.cs
+D:\david\programs\Visual Studio\WPFDEMO\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\david\programs\Visual Studio\WPFDEMO\obj\Debug\WPFDEMO_MarkupCompile.cache
+D:\david\programs\Visual Studio\WPFDEMO\obj\Debug\WPFDEMO_MarkupCompile.lref
+D:\david\programs\Visual Studio\WPFDEMO\obj\Debug\View\View.baml
+D:\david\programs\Visual Studio\WPFDEMO\obj\Debug\WPFDEMO.g.resources
+D:\david\programs\Visual Studio\WPFDEMO\obj\Debug\WPFDEMO.Properties.Resources.resources
+D:\david\programs\Visual Studio\WPFDEMO\obj\Debug\WPFDEMO.csproj.GenerateResource.cache
+D:\david\programs\Visual Studio\WPFDEMO\obj\Debug\WPFDEMO.exe
+D:\david\programs\Visual Studio\WPFDEMO\obj\Debug\WPFDEMO.pdb
+D:\david\programs\Visual Studio\WPFDEMO\obj\Debug\WPFDEMO.csprojAssemblyReference.cache
